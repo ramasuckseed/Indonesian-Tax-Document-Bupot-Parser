@@ -10,7 +10,7 @@ from glob import glob
 from pypdf import PdfReader
 
 # ========================== KONFIGURASI ==========================
-FOLDER_PDF = r"E:\Faktur Pajak All"
+FOLDER_PDF = r"E:\Faktur Pajak All"   #GANTIDISINI
 OUTPUT_EXCEL = "rekap_faktur.xlsx"
 DEBUG_MODE = False   # True = tampilkan detail per file
 # ================================================================
